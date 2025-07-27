@@ -1,0 +1,14 @@
+{
+    "title": "WJ KALQ Modified",
+    "onScreen": {
+        "main": [
+            "[4D:s dpr ym][4D: [LEFT][UP][RIGHT][DOWN]][4D:tgu a   l]",
+            "[4D:hxnbcvwfz][4D:[SPACE]][4D:eko qi  j]",
+            "[SPACE][Del][ENTER]"
+        ],
+        "prediction": {
+            "T9": false
+        }
+    }
+}
+
