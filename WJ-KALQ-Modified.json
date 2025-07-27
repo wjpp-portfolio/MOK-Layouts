@@ -2,9 +2,15 @@
     "title": "WJ KALQ Modified",
     "onScreen": {
         "main": [
-            "[4D:s dpr ym][4D: [LEFT][UP][RIGHT][DOWN]][4D:tgu a   l]",
-            "[4D:hxnbcvwfz][4D:[SPACE]][4D:eko qi  j]",
-            "[SPACE][Del][ENTER]"
+            "[4D:s\"dpr'ym(][4D:[SPACE][WDEL] [ALL][ENTER] [COPY][PASTE]][4D:tgu!av@?l]",
+            "[4D:hxnbc)wfz][4D:.[LEFT][UP][RIGHT][DOWN]][4D:eko,qi;:j]",
+            "[SHIFT][SPACE][TOOL][123][SYM][DEL]"
+        ],
+        "num":[
+            "[4D:=+-*/][4D:1][4D:2][4D:3]%",
+            "[4D: [LEFT][UP][RIGHT][DOWN]][4D:4][4D:5][4D:6][4D:£$]",
+            "#[4D:7][4D:8][4D:9][4D:[DEL]]",
+            "[LOCK][4D:0][][][SPACE][ENTER]"
         ],
         "prediction": {
             "T9": false
